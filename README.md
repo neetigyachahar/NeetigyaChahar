@@ -2,6 +2,9 @@
 
 **I'm a full stack JavaScript developer learning new stuff each day!**
 
+<p align="center">
+  <img width="100%" src="./coding-retro.gif" alt="coding" />
+</p>
 
 Here are a few things about me:
 
@@ -48,7 +51,5 @@ Here are a few things about me:
 <img align="left" alt="GitHub" width="26px" src="https://pnglux.com/wp-content/uploads/2021/03/1617159832_971_GitHub-logo-PNG-Pic.png" />
 <img align="left" alt="MGitLab" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png" />
 
-<p align="center">
-  <img width="100%" src="./coding-retro.gif" alt="coding" />
-</p>
+
 
