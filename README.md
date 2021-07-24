@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**neetigyachahar/neetigyachahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are a few things about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a social media platform in MERN
+- 🌱 I’m currently learning GraphQL & Relay
+- 👯 I’m looking to collaborate on business ideas
+- 🤔 I’m looking for help with digital marketing
+- 💬 Ask me about anything and especially ReactJs
+- 📫 How to reach me: [!Email me!](mailto:neetigyachahar784@gmail.com)
+	
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
