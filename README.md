@@ -8,11 +8,9 @@
 
 Here are a few things about me:
 
-- 🔭 I’m currently working on a social media platform in MERN
-- 🌱 I’m currently learning GraphQL & Relay
-- 👯 I’m looking to collaborate on business ideas
-- 🤔 I’m looking for help with digital marketing
-- 💬 Ask me about anything and especially ReactJs
+- 🔭 I’m currently working on a React Native App project
+- 🌱 I’m currently learning AI, GraphQL & Relay
+- 💬 You can discuss me about anything and especially ReactJs
 - 📫 How to reach me: [Email me!](mailto:neetigyachahar784@gmail.com)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=neetigyachahar&count_private=true&theme=dark&bg_color=0D1117&hide_border=true&showicons=true)]()
@@ -48,7 +46,7 @@ Here are a few things about me:
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />
 <img align="left" alt="AWS" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png" />
 <img align="left" alt="Heroku" width="26px" src="https://image.flaticon.com/icons/png/512/873/873120.png" />
-<img align="left" alt="GitHub" width="26px" src="https://pnglux.com/wp-content/uploads/2021/03/1617159832_971_GitHub-logo-PNG-Pic.png" />
+<img align="left" alt="GitHub" width="26px" src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg" />
 <img align="left" alt="MGitLab" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png" />
 
 
